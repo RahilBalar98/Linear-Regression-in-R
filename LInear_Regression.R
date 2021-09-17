@@ -1,6 +1,6 @@
 #Linear Regression
 
-data.in = read.csv("/home/rahilbalar98/Desktop/STAT_652/Datasets/Wine Quality.csv")
+data.in = read.csv("/Wine Quality.csv")
 head(data.in)
 
 print(colnames(data.in))
