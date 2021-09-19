@@ -59,7 +59,7 @@ summary(fit.sulphates)
 #here. Rather than explain the details, it's best to just
 #see the with() function in action. We also use the abline()
 #function to add our regression line to the plot
-with(data1, plot(sugar, alcohol))
+with(data1, plot(sugar, alcohol)) 
 abline(fit.sugar)
 with(data1, plot(density, alcohol))
 abline(fit.density)
