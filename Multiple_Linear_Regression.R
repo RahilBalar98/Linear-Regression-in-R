@@ -9,6 +9,7 @@ ind.outlier = which.max(data$sulphates)
 data1 = data[-ind.outlier,]
 
 pairs(data1)
+# install.package('rgl')
 library(rgl)
 open3d()
 plot3d(data1$alcohol ~ data1$density + data1$pH, col = "blue")
