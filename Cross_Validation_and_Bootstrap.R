@@ -3,7 +3,7 @@
 ### outlier. We can run it using the source() function.
 ### First, make sure that the working directory is set correctly. Change
 ### the address in setwd() to wherever you have the wine dataset stored.
-#setwd("C:/Users/yuxingracefan/Desktop/stats452/L3")
+#setwd("/stats452/L3")
 source("Read Wine Data.R")
 
 ### Set R's pseudo-random number generator to start at the same
