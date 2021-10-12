@@ -3,7 +3,7 @@
 #
 #   Generating data from same structure we used for showing boas and various
 #   Fitting models to the data 
-#   Measuring the error of these models in various ways
+#   Measuring the error of these models in various ways 
 #   Demonatrating the variability and other properties of error measures
 #
 
